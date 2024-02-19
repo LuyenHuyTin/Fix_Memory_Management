@@ -5,7 +5,7 @@
 #include <string>
 #include "chatgui.h"
 
-// forward declarations
+// forward declarations 
 class ChatBot;
 class GraphEdge;
 class GraphNode;
