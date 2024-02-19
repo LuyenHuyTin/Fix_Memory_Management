@@ -6,7 +6,7 @@
 #include "chatlogic.h"
 #include "chatgui.h"
 
-// size of chatbot window
+// size of chatbot window 
 const int width = 414;
 const int height = 736;
 
